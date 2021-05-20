@@ -1,0 +1,163 @@
+---
+title: "Novo Sistema Partidário?"
+subtitle: ""
+author: "Teresa Kerbauy - João Paulo - Vitor Peixoto - Larissa Martins"
+institute: "Workshop Nacional: Eleições Municipais 2020 - O que refletiram e o que anteciparam"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  echo = FALSE,
+  fig.align = "center",
+  message = FALSE,
+  warning = FALSE,
+  cache = TRUE
+)
+
+ 
+# 
+# library(tidyverse)
+# library(geobr)
+# library(ggthemes)
+# library(viridis)
+# library(readr)
+# 
+# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/nep_municipal.Rda")
+# 
+# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/mapa_nep.Rda")
+# 
+# 
+# 
+# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/fragmentacao.Rda")
+# 
+# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/mapa_frag.Rda")
+# 
+# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/estados.Rda")
+
+
+```
+
+--- 
+
+
+# Pergunta de pesquisa:
+
+
+
+### Temos um novo sistema de partidos a partir das eleicões de 2020?
+
+---
+
+# Objetivos:
+
+1 - Apontar as alterações  institucionais do sistema eleitoral
+
+2 - Analisar a evolucão dos desempenhos dos partidos políticos
+
+3 - Descrever longitudinalmente a competicão eleitoral municipal
+
+4 - Radiografar a fragmentacão das Câmaras Municipais
+
+
+---
+# Mudanças institucionais do sistema eleitoral
+
+
+
+- Mudanças nas magnitudes dos distritos
+
+- Coligações Eleitorais
+
+- Financiamento de Campanhas
+
+- HGPE
+
+- Tempo das campanhas
+
+- Clausulas de barreiras e desempenhos individuais
+
+- Fidelidade partidária
+
+- Cotas de gênero
+
+- Regulamentacão das campanhas nas redes sociais
+
+
+---
+# Partidos Políticos e desempenho municipal
+
+```{r, echo=FALSE, out.width= "120%"}
+
+
+knitr::include_graphics("prefeito.gif")
+
+
+
+```
+---
+# Partidos Políticos e desempenho municipal
+```{r, echo=FALSE, out.width= "100%"}
+
+
+knitr::include_graphics("vereador.gif")
+
+```
+
+
+
+
+
+---
+# Competicão eleitoral
+
+```{r, echo=FALSE, out.width= "100%"}
+
+
+
+knitr::include_graphics("nep_eleitoral.png")
+
+```
+
+
+---
+# Competicão eleitoral por tamanho
+```{r, echo=FALSE, out.width= "100%"}
+
+knitr::include_graphics("nep_vereador_tamanho.png")
+
+```
+
+
+
+---
+# Fragmentacão das Câmaras Municipais 
+
+```{r, echo=FALSE, out.width= "100%"}
+
+
+
+knitr::include_graphics("fragmentacao.png")
+
+```
+
+---
+# Consideracoes finais
+
+
+- a importância das análises longitudinais para a compreensão dos percursos
+
+- necessidade de acompanhamento das próximas eleicões para verificar a cristalizacão dos efeitos das reformas
+
+- a manter o fim das coligacões ha uma tendencia a uma restruturaćão do sistema partidário com possibilidade de um redesenho para um sistema um subsistemas municipal
+
+
