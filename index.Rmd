@@ -32,18 +32,6 @@ knitr::opts_chunk$set(
 # library(viridis)
 # library(readr)
 # 
-# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/nep_municipal.Rda")
-# 
-# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/mapa_nep.Rda")
-# 
-# 
-# 
-# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/fragmentacao.Rda")
-# 
-# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/mapa_frag.Rda")
-# 
-# load("~/dados_eleicoes_tse/COMPETICAO_ELEITORAL/estados.Rda")
-
 
 ```
 
