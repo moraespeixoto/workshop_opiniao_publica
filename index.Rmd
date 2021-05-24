@@ -42,7 +42,7 @@ knitr::opts_chunk$set(
 
 
 
-### Temos um novo sistema de partidos a partir das eleicões de 2020?
+### Temos um novo sistema de partidos a partir das eleições de 2020?
 
 ---
 
@@ -50,11 +50,11 @@ knitr::opts_chunk$set(
 
 1 - Apontar as alterações  institucionais do sistema eleitoral
 
-2 - Analisar a evolucão dos desempenhos dos partidos políticos
+2 - Analisar a evolução dos desempenhos dos partidos políticos
 
-3 - Descrever longitudinalmente a competicão eleitoral municipal
+3 - Descrever longitudinalmente a competição eleitoral municipal
 
-4 - Radiografar a fragmentacão das Câmaras Municipais
+4 - Radiografar a fragmentação das Câmaras Municipais
 
 
 ---
@@ -78,7 +78,7 @@ knitr::opts_chunk$set(
 
 - Cotas de gênero
 
-- Regulamentacão das campanhas nas redes sociais
+- Regulamentação das campanhas nas redes sociais
 
 
 ---
@@ -106,7 +106,7 @@ knitr::include_graphics("vereador.gif")
 
 
 ---
-# Competicão eleitoral
+# Competição eleitoral
 
 ```{r, echo=FALSE, out.width= "100%"}
 
@@ -118,7 +118,7 @@ knitr::include_graphics("nep_eleitoral.png")
 
 
 ---
-# Competicão eleitoral por tamanho
+# Competição eleitoral por tamanho
 ```{r, echo=FALSE, out.width= "100%"}
 
 knitr::include_graphics("nep_vereador_tamanho.png")
@@ -128,7 +128,7 @@ knitr::include_graphics("nep_vereador_tamanho.png")
 
 
 ---
-# Fragmentacão das Câmaras Municipais 
+# Fragmentação das Câmaras Municipais 
 
 ```{r, echo=FALSE, out.width= "100%"}
 
@@ -139,13 +139,13 @@ knitr::include_graphics("fragmentacao.png")
 ```
 
 ---
-# Consideracoes finais
+# Considerações finais
 
 
-- a importância das análises longitudinais para a compreensão dos percursos
+- a importância das análises longitudinais para a compreensão dos percursos.
 
-- necessidade de acompanhamento das próximas eleicões para verificar a cristalizacão dos efeitos das reformas
+- necessidade de acompanhamento das próximas eleições para verificar a cristalização dos efeitos das reformas.
 
-- a manter o fim das coligacões ha uma tendencia a uma restruturaćão do sistema partidário com possibilidade de um redesenho para um sistema um subsistemas municipal
+- a manter o fim das coligações ha uma tendência a uma restruturação do sistema partidário com possibilidade de um redesenho para um subsistema municipal.
 
 
